@@ -1,0 +1,4 @@
+#Sat Jul 20 04:48:48 BDT 2019
+base.0=H\:\\A_Guide_to_Running_Tensorflow_Models_on_Android-master\\mnistandroid\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
